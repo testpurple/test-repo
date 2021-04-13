@@ -1,0 +1,33 @@
+This is a fake code for testing
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093500822013:android:33f6bcae2cabcd69a3b994",
+        "android_client_info": {
+          "package_name": "com.abc.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234500822013-abcdeihc4mpb6oun467s949rcvqg1234.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "ABCDEyCWNloMkl_aWn6XOfVku2dgCWTJpGYiltA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1234500822013-abcdeihc4mpb6oun467s949rcvqg1234.apps.googleusercontent.com",
+              "client_type": 3
+
+
+
+itlinfosys
+
+ad.infosys.com
